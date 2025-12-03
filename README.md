@@ -45,3 +45,6 @@ git commit -m "add seventh homework"
 git checkout master
 git add README.md
 git commit -m "Update README.md"
+
+git remote add origin https://github.com/TsiunisGeorge/Practice.git
+git push -u origin main
