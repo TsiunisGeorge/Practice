@@ -49,7 +49,8 @@ git commit -m "Update README.md"
 git remote add origin https://github.com/TsiunisGeorge/Practice.git
 git push -u origin main
 
-git add README.md                                                                                                                          ✔  git commit -m "Update README.md"
+git add README.md
+git commit -m "Update README.md"
 
 git push -u origin master
 git push -u origin homework1
