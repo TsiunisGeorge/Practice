@@ -41,3 +41,7 @@ git commit -m "add sixth homework"
 git checkout homework7
 git add TsiunisVar5/*
 git commit -m "add seventh homework"
+
+git checkout master
+git add README.md
+git commit -m "Update README.md"
